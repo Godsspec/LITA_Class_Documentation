@@ -5,10 +5,15 @@ This is where I documented projects as an aspiring Data Analyst learning with th
 
 ### Table of Contents
 [Project Overview](#project-overview)
+
 [Data Sources](#data-sources)
+
 [Tools Used](#tools-used)
+
 [Data cleaning and preparations](#data-cleaning-and-preparstions)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Data Analysis](#data-analysis)
 [Data Visualization](#data-visualization)
 
